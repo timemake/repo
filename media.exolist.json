@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Toccata and Fugue in D minor",
+    "id": 0,
+    "uri": "asset:///toccata_fugue.mp3",
+    "composer": "Johann Sebastian Bach",
+    "albumArtID": "bach"
+  },
+  {
+    "name": "Fur Elise",
+    "id": 1,
+    "uri": "asset:///fur_elise.mp3",
+    "composer": "Ludwig van Beethoven",
+    "albumArtID": "beethoven"
+  },
+  {
+    "name": "Rondo Alla Turca",
+    "id": 2,
+    "uri": "asset:///rondo_alla_turca.mp3",
+    "composer": "Wolfgang Amadeus Mozart",
+    "albumArtID": "mozart"
+  },
+  {
+    "name": "Nocturne Op. 9 No. 2",
+    "id": 3,
+    "uri": "asset:///nocturne_9_2.mp3",
+    "composer": "Frédéric Chopin",
+    "albumArtID": "chopin"
+  }
+]
