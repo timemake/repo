@@ -1,85 +1,85 @@
 [
   {
-    "id": "1",
-    “title”: “소찬휘 베스트”,
-	“youtubeId: “RaueoMk95Es”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/sochan.png"
+   "id": "1",
+   "title": "소찬휘 베스트",
+	 "youtubeId": "RaueoMk95Es",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/sochan.png"
   },
-{
-    "id": “2”,
-    “title”: “베이비복스 베스트”,
-	“youtubeId: “_vx00G1I4ug”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/babyvox.png”
+  {
+   "id": "2",
+   "title": "베이비복스 베스트",
+	 "youtubeId": "_vx00G1I4ug",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/babyvox.png"
   },
-{
-    "id": “3”,
-    “title”: “박정현 베스트”,
-	“youtubeId: “_VRz80Ht8p4”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/parkjunghyun.png”
+  {
+   "id": "3",
+   "title": "박정현 베스트",
+	 "youtubeId": "_VRz80Ht8p4",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/parkjunghyun.png"
   },
-{
-    "id": “4”,
-    “title”: “김현정 베스트”,
-	“youtubeId: “AlKzjtdh1Tw”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/kimhyunjung.png"
+  {
+   "id": "4",
+   "title": "김현정 베스트",
+	 "youtubeId": "AlKzjtdh1Tw",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/kimhyunjung.png"
   },
-{
-    "id": “5”,
-    “title”: “서영은 베스트”,
-	“youtubeId: “Ir4GQlpMGqA”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/seoyoungeun.png"
+  {
+   "id": "5",
+   "title": "서영은 베스트",
+	 "youtubeId": "Ir4GQlpMGqA",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/seoyoungeun.png"
   },
-{
-    "id": “6”,
-    “title”: “거미 베스트”,
-	“youtubeId: “ELQAe-6uYPI”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/gumi.png"
+  {
+   "id": "6",
+   "title": "거미 베스트",
+	 "youtubeId": "ELQAe-6uYPI",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/gumi.png"
   },
-{
-    "id": “7”,
-    “title”: “보아 베스트”,
-	“youtubeId: “o8ecU2mD4io”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/boa.png"
+  {
+   "id": "7",
+   "title": "보아 베스트",
+	 "youtubeId": "o8ecU2mD4io",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/boa.png"
   },
-{
-    "id": “8”,
-    “title”: “홍진경 베스트”,
-	“youtubeId: “8QpSErjOSjI”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/hongjinkyung.png"
+  {
+   "id": "8",
+   "title": "홍진경 베스트",
+	 "youtubeId": "8QpSErjOSjI",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/hongjinkyung.png"
   },
-{
-    "id": “9”,
-    “title”: “린 베스트”,
-	“youtubeId: “utQNDq5_YIg”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/lyn.png"
+  {
+   "id": "9",
+   "title": "린 베스트",
+	 "youtubeId": "utQNDq5_YIg",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/lyn.png"
   },
-{
-    "id": “10”,
-    “title”: “에일리 베스트”,
-	“youtubeId: “TNl_gICaDuA”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/eli.png"
+  {
+   "id": "10",
+   "title": "에일리 베스트",
+	 "youtubeId": "TNl_gICaDuA",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/eli.png"
   },
-{
-    "id": “11”,
-    “title”: “케이윌 꽃이 핀다 한시간 ”,
-	“youtubeId: “GHSKjNyQB58”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/kwill.png"
+  {
+   "id": "11",
+   "title": "케이윌 꽃이 핀다 한시간",
+	 "youtubeId": "“GHSKjNyQB58”",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/kwill.png"
   },
-{
-    "id": “12”,
-    “title”: “JK 김동욱 ”,
-	“youtubeId: “NcgYVEdHLSU”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/jk.png"
+  {
+   "id": "12",
+   "title": "JK 김동욱",
+	 "youtubeId": "“NcgYVEdHLSU”",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/jk.png"
   },
-{
-    "id": “13”,
-    “title”: “이선희 베스트 ”,
-	“youtubeId: “hGBeA_eMSR4”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/leesunhee.png"
+  {
+   "id": "13",
+   "title": "이선희 베스트",
+	 "youtubeId": "“hGBeA_eMSR4”",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/leesunhee.png"
   },
-{
-    "id": “14”,
-    “title”: “이문세 베스트 ”,
-	“youtubeId: “aNwanzz3B58”,
-    “imageUrl: "https://raw.githubusercontent.com/timemake/repo/main/leemunse.png"
+  {
+   "id": "14",
+   "title": "“이문세 베스트",
+	 "youtubeId": "“aNwanzz3B58”",
+   "imageUrl": "https://raw.githubusercontent.com/timemake/repo/main/leemunse.png"
   }
